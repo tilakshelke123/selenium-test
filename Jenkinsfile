@@ -1,6 +1,6 @@
 pipeline {
 	//agent any
-    agent { label 'double node' }
+    agent { label 'doubleNode' }
 
     options {
         disableConcurrentBuilds()
