@@ -1,6 +1,6 @@
 pipeline {
 	//agent any
-    agent { label 'doubleNode' }
+    agent { label 'echecvkOneMoreTimes' }
 
     options {
         disableConcurrentBuilds()
